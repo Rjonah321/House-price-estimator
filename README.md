@@ -1,4 +1,4 @@
-# House price estimator
+# House Price Estimator
 This project is a Ridge regression model used to estimate house prices. 
 It was developed for a Kaggle competition.
 
